@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### Atributos:
+Boa desenvoltura em **trabalho em equipe**, aprendendo:
+* __HTML__
+* **CSS**
+* **JavaScript**
+* *Java*
+* _ReactNative_
