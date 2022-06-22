@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Coisas que gosto:
+- Fazer novas amizades
+- Conhecer novas tecnologias
+- Plantas
